@@ -2,7 +2,7 @@
  * @author  Fahad Alshehri
  * @Date  6/25/2018.
  * Independent Study
- * Array Interview Questions
+ * Math Interview Questions
  */
 import java.util.*;
 import java.math.*;
